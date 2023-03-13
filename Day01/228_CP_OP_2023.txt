@@ -1,0 +1,34 @@
+			Welcome To Selenium Automation
+				  Sumit Raokhande
+
+- B.E.Electronics, KBP satara
+- M.Tech Electronics, Walchand College Sangli
+- C-Dac Wimc , Sunbeam pune
+- worked as Mobile Application developer at tivre business solution
+- worked on J2ME,Symbian,Windows Mobile,Reaserach Motion
+- Worked as Android developer at veetron 
+- Live android application prasieo,autohub,garage
+- Worked as JDE Developer of Oracle Product
+- Worked as OpenSDK developer
+- work as angular developer
+- work on google cloud & docker 
+
+
+- daily mon to fri session 
+- duration avg 1.15 min it may be increase or may decrease depends upon topic 
+- course duration 40 to 45 hrs 
+- selenium topic
+- project is also there
+- Industry level coding 
+- Interview question is given at the end of this module
+- video recording is given but that recording is not downlaodable 
+that recording is present at least 4-5 days on cloud 
+- All code will be given as well as session notes will given -> all code will available on github repositority except images 
+- daily sharp 8.30am join 
+- daily solve dout in session -> no any separte doubt solving session 
+ 
+ expecteation from ur side
+ 1 u are good/expert in core java -> in short u know all OOPS concept
+ 2 Basics of HTML & css 
+ 3 Daily Practice 
+ 4 daily sharp 8.30am join 
