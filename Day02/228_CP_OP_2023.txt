@@ -1,0 +1,39 @@
+Last Lecture
+1 Introduction
+
+Today Lecture
+1 What is Selenium
+	- it is a automation tool/sw
+	- it is open source lib.
+	- it automate ur application=> web application 
+2 Advatanges of selenium
+	1 It is open source 
+	2 it is used for web based application
+	3 It support all platform(os=> windows,linux,mac,suse,ubantu) 
+	4 it required less time to excecute
+	5 it is easily implement 
+	6 all browser suuport (chrome,firfox,edge,IE,safari,opera)
+	7 selenium support multiple lang.
+
+3 Disadvtanges of selenium
+	1 we can't test desktop application (word,notepad,ppt,calculator)
+	2 it not test captcha,file download ,image 
+	3 it is not support mobile native application 
+	
+4 Selenium supports
+	1 java
+	2 c#
+	3 python
+	4 ruby
+
+5 Intro of enhancement
+	- to update ur application that u have to test 
+6 Regressation 
+	- test again & again
+7 Error vs bug/defect
+	error-> it is used for developer purpose 
+		-> it is unit testing done by developer
+	bug/defect
+		-> it is used for tester
+		-> do not match to expected result to actual result 	
+		
