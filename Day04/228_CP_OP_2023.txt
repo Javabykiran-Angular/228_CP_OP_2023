@@ -1,0 +1,10 @@
+Last Lecture
+1 Test Cases
+2 Environmental setup
+	https://javabykiran.in/selenium/javabykiran-Selenium-Softwares.zip
+	
+Today Lecture
+1 Environmental setup
+2 chrome driver
+3 simple program 
+
