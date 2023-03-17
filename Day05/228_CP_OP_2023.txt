@@ -1,0 +1,41 @@
+Last Lecture
+1 Environmental setup
+	1 selenium jar
+	2 chrome driver .exe file 
+2 chrome driver
+3 simple program 
+	class Demo1{
+		psvm(){
+			System.setProperty("webdriver.chrome.driver","chromedriver.exe");
+			
+			WebDriver driver=new ChromeDriver();
+				driver.get("....");
+		}
+	}
+
+Today Lecture
+1 WebDriver method
+2 Web element
+2 DOM
+3 DOM Structure
+4 Html basics
+	- hypertext markup lang.
+	- <> => to write a tag 
+	- it has 2 types 
+		1 paired tag 
+			<label>sumit </label>
+		2 unpaired tag 
+		<input>
+		<br>
+		<hr>
+		
+		<label > sumit </label>
+		<input >
+		
+		global attribute
+		1 id => it set a unique name 
+		2 name => it also hold a name=> variable name of data  
+		3 class => to set/apply any css classes 
+		4 style => to set a style for paticular html element 
+	
+
