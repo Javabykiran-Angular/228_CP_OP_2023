@@ -1,0 +1,37 @@
+Last Lecture
+1 WebDriver method
+	WebDriver driver=new ChromeDriver();
+	driver.get("...");
+	driver.getTitle();
+	driver.getCurrentUrl()
+	driver.PageSource();
+	
+2 Web element
+2 DOM
+3 DOM Structure
+
+4 Html basics
+	- hypertext markup lang.
+	- <> => to write a tag 
+	- it has 2 types 
+		1 paired tag 
+			<label>sumit </label>
+		2 unpaired tag 
+		<input>
+		<br>
+		<hr>
+		
+		<label > sumit </label>
+		<input >
+		
+		global attribute
+		1 id => it set a unique name 
+		2 name => it also hold a name=> variable name of data  
+		3 class => to set/apply any css classes 
+		4 style => to set a style for paticular html element 
+	
+
+Today Lecture
+1 Continue HTML 
+HW => h1 to h6 tags do it yourself 
+
