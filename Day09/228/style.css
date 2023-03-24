@@ -1,0 +1,32 @@
+	
+	button{
+		border:1px solid;
+		border-radius: 8px;
+		padding:5px;
+		margin:5px;
+	}
+	
+	#mysubmit{
+		background:green;
+		color:white;
+		
+	}
+	
+	.resetclass{
+		background:orange;
+		color:white;
+		text-transform: uppercase;
+		
+	}
+	
+	img{
+		width:250px;
+		height:250px;
+		border-radius:50%;
+	}
+	
+	body{
+		
+		background:gray;
+		
+	}
