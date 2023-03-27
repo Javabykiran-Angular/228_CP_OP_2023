@@ -1,0 +1,59 @@
+Last Lecture
+1 Table tag
+	<table>
+		<tr>
+			<th>
+			....</th>
+			....
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		
+	</table>
+2 Continue CSS
+	1 inline css 
+		<h1 style="color:red;">
+	2 internal css
+		<style>
+			
+		p{
+			font-family:...
+		}
+		
+		.myclass{
+			...
+		}
+		
+		#myid{
+		...
+		}
+			
+			
+		</style>
+		
+		<div class="myclass" id="myid">....
+	3 external css 
+		style.css
+		p{
+			font-family:...
+		}
+		
+		.myclass{
+			...
+		}
+		
+		#myid{
+		...
+		}
+		
+		index.html
+		<head>	
+			<link href="style.css" rel="stylesheet">
+	
+
+Today Lecture
+1 How to access web element
+2 WebElement Interface
+
