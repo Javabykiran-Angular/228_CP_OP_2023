@@ -1,0 +1,9 @@
+Last Lecture
+1 How to access web element
+2 WebElement Interface
+
+Today Lecture
+1 Continue access web element
+2 how to access dropdown
+6 How to handle Alert
+
