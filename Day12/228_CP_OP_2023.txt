@@ -1,0 +1,40 @@
+Last Lecture
+1 Continue access web element
+	WebElement email_element= driver.findElement(By.xpath("..."))
+	email_element.sendKeys("...");
+	
+	driver.findElement(By.xpath("..")).sendKeys("....");
+	
+	.....
+	driver.findElement(By.xpath("..")).click();
+	
+	WebElement dropdownelement= driver.findElement(By.xpath(".."));
+	
+	Select select=new Select(dropdownelement);
+	1 select.selectByIndex(1)
+	2 select.selectByValue("")
+	3 select.selectVisibleText("...")
+	
+	...
+	Alert alert=driver.switchTo().alert();
+	alert.accept();
+	driver.switchTo.default();
+	
+	
+	
+2 how to access dropdown
+6 How to handle Alert
+
+
+Today Lecture
+1 Locators In selenium
+	1 Id
+	2 name
+	3 linkText 
+		generally used on <a > tag 
+	4 partialLinkText
+	5 tag name 
+	6 Attributes
+	7 class name
+	8 Dynamic xpath => Pending
+2 Navigation commands
