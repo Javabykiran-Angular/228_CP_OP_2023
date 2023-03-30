@@ -1,0 +1,34 @@
+Last Lecture
+1 Locators In selenium
+	1 Id
+		driver.findElement(By.id("mobile")).sendKeys("....")
+	2 name
+		driver,findElement(By.name("name")).sendKeys("...")
+	3 linkText 
+		generally used on <a > tag 
+		driver.findElement(By.lintText("Register ..."))).click();
+	4 partialLinkText
+	driver.findElement(By.partialLinkText("Register "))).click();
+	5 tag name 
+		driver.findElement(By.tagName("input"))
+		
+		List<WebElement> list= driver.findElements(By.tagName("input"))
+		
+		for(int i=0;i<list.size();i++){
+			if(list.get(i).getAttribute("placeholder").compareTo("Email")==0){
+				list.get(i).sendKeys("....")
+			}
+		}
+		
+	6 Attributes
+	7 class name
+		driver.findElement(By.className("btn")).click();
+	
+2 Navigation commands
+	driver.navigate().back();
+	driver.navigate().forward();
+	....
+
+Today Lecture
+1 Window Handles
+ 
