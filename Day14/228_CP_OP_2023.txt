@@ -1,0 +1,20 @@
+Last Lecture
+1 Window Handles
+	- we perform login
+	ArrayList<String> tabs=new ArrayList<string>(driver.getWindowHandles());
+	
+	for(int i=0;i<tabs.size();i++){
+		if(i!=0){
+			driver.switchTo().window(tabs.get(i));4
+			driver.close();
+		}
+		
+	}
+	
+	driver.switchTo().window(tabs.get(0));
+	driver.switchTo().defaultContent();	
+
+Today Lecture
+1 Access Table data
+ 
+ 
