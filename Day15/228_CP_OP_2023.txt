@@ -1,0 +1,20 @@
+Last Lecture
+1 Access Table data
+	List<WebElement> list_row= driver.FindElements(By.tagName("tr"))
+	
+	for(int i=1;i<list_row.size();i++){
+	
+	List<WebElement> list_col =list_row.get(i).findElements(By.tagName("td")));
+		
+		for(int j=0;j<8;j++){
+			Syo("=> "+list_col.get(j).getText());
+		}
+		
+	}
+	
+
+Today Lecture
+1 Modify the code 
+
+ 
+ 
