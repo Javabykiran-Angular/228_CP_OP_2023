@@ -1,0 +1,41 @@
+Last Lecture
+1  Modify the code
+
+	class Configuration{
+		WebDriver driver;
+		
+		public void driverSetting(String url){
+		....
+			
+			driver.get(url);
+		
+		}
+		
+		public void login(){
+		
+			// to access all webelement
+		
+		}
+		
+	}
+	class DemoMain extends Configuration{
+	
+		
+		psvm(){
+			
+			//Configuration obj=new Configuration();
+			DemoMain obj=new DemoMain();
+			obj.driverSetting("....");
+			obj.login();
+		}
+	}
+	
+
+Today Lecture
+1 Access the iframe
+	- it is html tag 
+2 take screenshot
+
+
+ 
+ 
