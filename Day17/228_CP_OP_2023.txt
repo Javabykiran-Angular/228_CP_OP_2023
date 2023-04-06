@@ -1,0 +1,28 @@
+Last Lecture
+1  Access the iframe
+	- it is html tag 
+	driver.switchTo().frame(1);
+	driver.switchTo().frame("webform");
+	
+	WebEelement iframeElement=driver.findElement(By.xpath(""));
+	driver.switchTo().frame(iframe);
+	
+	
+	....
+	webdriver   Javascriptexecutor   TakeScreenshot
+	
+			RemoteWebDriver 
+	
+	ChromeDriver	FireFoxDriver  ...
+	
+	
+
+Today Lecture
+1 take screenshot
+2 Propertites file
+myname.propertites
+
+
+
+ 
+ 
