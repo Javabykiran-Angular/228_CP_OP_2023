@@ -1,0 +1,38 @@
+Last Lecture
+1 take screenshot
+	File sourece=((TakeScreenShot)driver).getScreenShotAs(OutputFile.File);
+	File target=new File(".....\\login.png")
+	try{
+	FileHandler.copy(sourece,target);
+	}catch(Exceptipon e){
+		.....
+	}
+	
+	
+2 Propertites file
+
+	FileInputStream fis=new FileInputStream("\\myname.propertites");
+	
+	Propertites props=new Propertites(fis);
+	props.load();
+	syso(props.getProperty("name"));
+	
+	driverSetting(props.getProperty("url"));
+	
+	
+myname.propertites
+name=sumit
+password:sumit@123
+url=...
+
+Today Lecture
+1 synchronization
+
+2 implicit wait
+	webDriver driver=new ChromeDriver();
+3 explicit wait 
+
+
+
+ 
+ 
