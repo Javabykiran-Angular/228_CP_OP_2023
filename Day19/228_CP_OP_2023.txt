@@ -1,0 +1,17 @@
+Last Lecture
+1 synchronization
+2 implicit wait
+	webDriver driver=new ChromeDriver();
+	driver.manage().timeout().implicitWait(10,TimeUit.SECONDS);
+3 explicit wait 
+	WebDriverWait waitelement=new WebDriverWait(driver,15);
+
+
+Today Lecture
+1 Access Excel sheet in selenium
+2 Apache POI Lib
+
+
+
+ 
+ 
