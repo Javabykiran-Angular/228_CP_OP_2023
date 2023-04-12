@@ -1,0 +1,22 @@
+Last Lecture
+1 Access Excel sheet in selenium
+2 Apache POI Lib
+
+ FileInputStream fis=new FileInputStream("....")
+	XSSFWorkbook workbook=new XSSFWorkbook(fis);
+	XSSFSheet sheet= workbook.getSheet(0);
+	XSSFRow row=sheet.getRow(1);
+	XSSFCell cell=row.getCell(0);
+	syso(cell.getStringValue());
+	Syso(cell.getNumericValue());
+	
+
+
+Today Lecture
+1 Continue excel Sheet
+
+
+
+
+ 
+ 
