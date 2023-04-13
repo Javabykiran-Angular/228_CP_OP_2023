@@ -1,0 +1,50 @@
+Last Lecture
+1 Continue excel Sheet
+	FileInputStream fis=new FileInputStream("");
+	XSSFWorkbook workbook=new XSSFWorkbook(fis);
+	XSSFSheet sheet=workbook.getSheeet(0);
+	
+	int rowcount=sheet.getLastRowNum();
+	
+	for(int i=0;i<=rowcount;i++){
+		XSSFRow row=sheet.getRow(i);
+		
+		int cellcount=row.getLastCellNum();
+		
+		for(int j=0;j<cellcount;j++){
+			
+			if(j!=0 && i!=0){
+				getnumeric value 
+			}else{
+				get string 
+			}
+		}
+		
+	}
+	
+
+Today Lecture
+1 Dynamic Xpath
+	1 absolute xpath
+		- it calculate from the base node/root node 
+		- to calculate absolute path we use single slash
+		/html/body/div/...
+		
+	2 relative xpath
+		- it calculate from its nearest location to locate ur webelement using locators
+		- double 
+		//tagname[@elementlocator=value] 
+		
+		//a[@id='navbtn_exercises']
+		
+		div => a
+
+contains(
+
+//input[contains(@name,'')])
+
+
+
+
+ 
+ 
