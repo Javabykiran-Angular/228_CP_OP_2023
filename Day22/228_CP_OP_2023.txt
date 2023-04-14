@@ -1,0 +1,34 @@
+Last Lecture
+1 Dynamic Xpath
+	1 absolute xpath
+		- it calculate from the base node/root node 
+		- to calculate absolute path we use single slash
+		/html/body/div/...
+		
+	2 relative xpath
+		- it calculate from its nearest location to locate ur webelement using locators
+		- double slash
+		//tagname[@elementlocator=value] 
+		
+		//a[@id='navbtn_exercises']
+		
+		div => a
+
+contains(//input[contains(@name,'')])
+
+Today Lecture
+1 Continue Dynamic xpath
+
+
+//input[starts-with(@name,'passwd')]
+
+
+//a[starts-with(text(),'Home')]
+
+2 following
+3 child
+
+
+
+ 
+ 
