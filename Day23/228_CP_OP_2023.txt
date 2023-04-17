@@ -1,0 +1,25 @@
+Last Lecture
+1 Continue Dynamic xpath
+
+(//input[contains(@id,'passwd')])[1]
+
+//input[starts-with(@name,'passwd')]
+
+
+//a[starts-with(text(),'Home')]
+
+2 following
+
+3 child
+
+Today Lecture
+1 TestNg
+	- it is a lib/tool
+	- it is used to execute ur test case 
+2 testng xml file 
+
+
+
+
+ 
+ 
