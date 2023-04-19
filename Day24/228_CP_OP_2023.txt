@@ -1,0 +1,44 @@
+Last Lecture
+1 TestNg
+	- it is a lib/tool
+	- it is used to execute ur test case 
+2 testng xml file
+
+class Demo1{
+	
+	@Test(priority=1)
+	public void btest(){
+	....
+	}
+	
+	@Test(priority=2)
+	public void atest(){
+	....
+	}
+}
+
+
+class Demo2{
+	
+	@Test(priority=1)
+	public void btest(){
+	....
+	}
+	
+	@Test(priority=2)
+	public void atest(){
+	....
+	}
+}
+
+testng.xml 
+
+Today Lecture
+1 TestNg Different Annotations
+2 Freamwork Integrations 
+
+
+
+
+ 
+ 
