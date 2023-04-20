@@ -1,0 +1,32 @@
+Last Lecture
+1 TestNg Different Annotations
+	beforesuite,beforetest,beforeclass,beforemethod, test, aftermethod,afterclass,aftertest,aftersuite
+2 Freamwork Integrations
+	class Login{
+		WebDriver driver;
+		
+		@BeforeClass
+		public void DriverSetting(){
+			System.setPropertt()
+			....
+			
+		}
+		
+		@Test(priority=1)
+		public void username(){
+			WebElement usernameelement= driver.findEelement(By.xpath(...))
+			usernameelement.sendkeys(..);
+		}
+		....
+		
+	}
+
+Today Lecture
+1 Assert in TestNg
+2 Hard Assert Vs Soft Assert
+
+
+
+
+ 
+ 
