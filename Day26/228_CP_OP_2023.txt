@@ -1,0 +1,16 @@
+Last Lecture
+1 Assert in TestNg
+2 Hard Assert Vs Soft Assert
+
+	
+
+Today Lecture
+1 data provider
+	
+2 integrate all functionality in freamwork 
+
+
+
+
+ 
+ 
